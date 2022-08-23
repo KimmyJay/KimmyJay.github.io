@@ -395,6 +395,8 @@ input[type='checkbox'] {
 
   .profile-img {
     width: 50%;
+    border: solid;
+
   }
 
   .portfolio {
